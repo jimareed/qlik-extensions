@@ -1,0 +1,9 @@
+{
+	"name" : "List View",
+	"description" : "List View",
+	"icon" : "table",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "table",
+	"author": "Jim Reed"
+}
